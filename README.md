@@ -5,17 +5,4 @@ Group discussion and rough code
 
 WELCOME TO MANAGEMENT INFORMATION SYSTEM
 
--Research Papers
-
-- [Management-Information-System](/Management-Information-System)
-
-- [WEB-BASED MANAGEMENT INFORMATION SYSTEM ](/silo.tips_international-journal-of-advanced-computer-technology-ijact-issn.pdf)
-
-- [Design of Web-based Management Research](/Design of Web-based Management.pdf)
-
-
-
-
-
-
 
