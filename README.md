@@ -7,7 +7,7 @@ WELCOME TO MANAGEMENT INFORMATION SYSTEM
 
 -Research Papers
 
-- [Design of Web-based Management Research](/Design of Web-based Management Research)
+- [Design of Web-based Management Research](/Design of Web-based Management.pdf)
 
 - [Management-Information-System](/Management-Information-System)
 
