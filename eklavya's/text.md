@@ -17,3 +17,13 @@
         -git status 
         -git clone <url you copied from code tab from repo>
         -done
+
+## adding or changing file / commits in existing files
+    - go to local folder of the repo in your windows explorer
+    -create or edit exisiting file 
+    - open cmd in same folder
+    -inside cmd use following commands
+        -git status // checks if you have done any changes 
+        -git add. //which will add changes 
+        -git commit -m "your commit comment" // this will commit your changes in repo
+        -git push // this will upload all
