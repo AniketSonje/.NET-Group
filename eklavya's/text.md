@@ -12,7 +12,7 @@
 
 ## commands:
     
-    # [Cloning Repo:]
+    ## [Cloning Repo:]
 
         - copy url from code tab in your choice of repo
         - decide where you want clone that repo in your file explorer eg. create new folder in your drive. Once created open cmd in that location
@@ -23,7 +23,7 @@
 
     ## [adding or changing file / commits in existing files ]
 
-    
+
         - go to local folder of the repo in your windows explorer
         -create or edit exisiting file 
         - open cmd in same folder
