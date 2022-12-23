@@ -33,3 +33,5 @@
             -git add. //which will add changes 
             -git commit -m "your commit comment" // this will commit your changes in repo
             -git push // this will upload all
+   ## [git pull]:
+        - open cmd in your explorer and use git pull to reload and update all changes!
