@@ -8,7 +8,7 @@ WELCOME TO MANAGEMENT INFORMATION SYSTEM
 
 [Sample MIS for Instructor](http://learning.frontendmatter.com/angular/index.html#/app-instructor/dashboard)
 
-
+[Download Link](https://www.google.com/)
 
 
 To create a full stack application for a Management Information System (MIS) using ReactJS, NodeJS, and MongoDB, you can follow these steps:
