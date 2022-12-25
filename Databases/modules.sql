@@ -1,0 +1,10 @@
+insert into modules (module_id, module_name) values (1, 'Macedonian');
+insert into modules (module_id, module_name) values (2, 'Northern Sotho');
+insert into modules (module_id, module_name) values (3, 'Macedonian');
+insert into modules (module_id, module_name) values (4, 'Chinese');
+insert into modules (module_id, module_name) values (5, 'Thai');
+insert into modules (module_id, module_name) values (6, 'Swati');
+insert into modules (module_id, module_name) values (7, 'Indonesian');
+insert into modules (module_id, module_name) values (8, 'Malagasy');
+insert into modules (module_id, module_name) values (9, 'Malagasy');
+insert into modules (module_id, module_name) values (10, 'Estonian');

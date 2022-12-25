@@ -1,0 +1,10 @@
+insert into qualification (q_id, q_degree) values (1, 'Northern Sotho');
+insert into qualification (q_id, q_degree) values (2, 'Kazakh');
+insert into qualification (q_id, q_degree) values (3, 'Estonian');
+insert into qualification (q_id, q_degree) values (4, 'Sotho');
+insert into qualification (q_id, q_degree) values (5, 'Gagauz');
+insert into qualification (q_id, q_degree) values (6, 'Hebrew');
+insert into qualification (q_id, q_degree) values (7, 'Hebrew');
+insert into qualification (q_id, q_degree) values (8, 'Yiddish');
+insert into qualification (q_id, q_degree) values (9, 'Georgian');
+insert into qualification (q_id, q_degree) values (10, 'Dari');
